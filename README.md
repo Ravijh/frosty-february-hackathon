@@ -23,6 +23,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > [Project Repo](https://github.com/sballgirl11/zerotomastery-twitterbot) | [Join Project](https://discordapp.com/channels/423464391791476747/668911804898082816/669201842194087946)
 
+
 #### [![](https://img.shields.io/badge/REACT/NODE(EXPRESS)%20FULL%20STACK%20PROJECT-Challenge%20App-critical?style=for-the-badge&logo=REACT)](https://github.com/Dan-Y-Ko/zerotomastery-challenge-app)
 
 > This will be a challenge/accountabilty application where users can sign up to the platform and join or create a challenge and follow it to the end, or pay a penalty! Refer to the SPAR! app on mobile to get a better idea.
